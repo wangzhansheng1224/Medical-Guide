@@ -24,7 +24,7 @@
     self.window.rootViewController = [[WZSTabBarController alloc]init];
     
     //地图key
-    [AMapServices sharedServices].apiKey = @"9f4425fbf3c267db322f9926ad731633";
+    [AMapServices sharedServices].apiKey = @"7688f5b8120b7378f352fb9d7f8beba4";
     
     [UMSocialData setAppKey:@"57752f91e0f55afd83000f89"];
     
