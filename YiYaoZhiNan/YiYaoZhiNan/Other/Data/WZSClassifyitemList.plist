@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>家庭药箱</key>
+	<array>
+		<string>扭伤挫伤冻伤</string>
+		<string>烧伤烫伤</string>
+		<string>晕车晕船</string>
+		<string>皮炎湿疹</string>
+		<string>消化不良</string>
+		<string>咽痛音哑</string>
+		<string>口舌生疮</string>
+	</array>
+	<key>感冒用药</key>
+	<array>
+		<string>解热镇痛</string>
+		<string>病毒性感冒</string>
+		<string>驱风祛暑</string>
+		<string>清热解毒</string>
+	</array>
+	<key>维生素/钙</key>
+	<array>
+		<string>补钙补锌</string>
+		<string>补铁补硒</string>
+		<string>复合维生素</string>
+		<string>叶酸类</string>
+	</array>
+	<key>慢性病药</key>
+	<array>
+		<string>心脑血管</string>
+		<string>糖尿病</string>
+		<string>肠胃用药</string>
+		<string>呼吸系统类</string>
+	</array>
+	<key>妇科用药</key>
+	<array>
+		<string>阴道炎</string>
+		<string>月经不调</string>
+		<string>痛经</string>
+		<string>更年期综合征</string>
+		<string>白带异常</string>
+		<string>女性不孕</string>
+	</array>
+	<key>男科用药</key>
+	<array>
+		<string>前列腺用药</string>
+		<string>阳痿早泄</string>
+		<string>滑精遗精</string>
+		<string>脱发斑秃</string>
+		<string>男性不育</string>
+	</array>
+	<key>儿童用药</key>
+	<array>
+		<string>小儿感冒发烧</string>
+		<string>小儿止咳化痰</string>
+		<string>小儿胃肠用药</string>
+		<string>小儿泄泻用药</string>
+	</array>
+</dict>
+</plist>

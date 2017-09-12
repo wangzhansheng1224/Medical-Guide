@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>controllerName</key>
+		<string>WZSHomeViewController</string>
+		<key>title</key>
+		<string>首页</string>
+		<key>normalImageName</key>
+		<string>tabbar_homepage_normal</string>
+		<key>selectedImageName</key>
+		<string>tabbar_homepage_selected</string>
+	</dict>
+	<dict>
+		<key>controllerName</key>
+		<string>WZSClassifyViewController</string>
+		<key>title</key>
+		<string>分类</string>
+		<key>normalImageName</key>
+		<string>tabbar_classify_normal</string>
+		<key>selectedImageName</key>
+		<string>tabbar_classify_selected</string>
+	</dict>
+	<dict>
+		<key>controllerName</key>
+		<string>WZSVicinityViewController</string>
+		<key>title</key>
+		<string>附近</string>
+		<key>normalImageName</key>
+		<string>tabbar_vicinity_normal</string>
+		<key>selectedImageName</key>
+		<string>tabbar_vicinity_selected</string>
+	</dict>
+	<dict>
+		<key>controllerName</key>
+		<string>WZSMeViewController</string>
+		<key>title</key>
+		<string>我</string>
+		<key>normalImageName</key>
+		<string>tabbar_mine_normal</string>
+		<key>selectedImageName</key>
+		<string>tabbar_mine_selected</string>
+	</dict>
+</array>
+</plist>

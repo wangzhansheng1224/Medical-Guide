@@ -1,0 +1,4 @@
+target:药品手册 do
+pod 'AMap3DMap', '~> 4.0.2'
+pod 'AMapSearch', '~> 4.1.0'
+end

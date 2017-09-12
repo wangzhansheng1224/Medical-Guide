@@ -1,0 +1,38 @@
+//
+//  WZSPrefixHeader.pch
+//  YiYao
+//
+//  Created by wzs on 16/6/17.
+//  Copyright © 2016年 WZS. All rights reserved.
+//
+
+#ifndef WZSPrefixHeader_pch
+#define WZSPrefixHeader_pch
+
+#import "UIImage+WZSRenderImage.h"
+#import "WZSRequestHttp.h"
+#import "WZSAPI.h"
+
+//常用控制器
+#import "WZSSearchViewController.h"
+#import "WZSSearchDetailViewController.h"
+#import "WZSScanViewController.h"
+#import "WZSSellViewController.h"
+
+//常用的自定制Cell
+#import "WZSHomeDetailCollectionViewCell.h"
+#import "WZSPinPaiCollectionViewCell.h"
+
+//第三方
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "MJRefresh.h"
+
+//加载指示器
+#import "WZSHDManager.h"
+
+#define WIDTH [UIScreen mainScreen].bounds.size.width
+#define HEIGHT [UIScreen mainScreen].bounds.size.height
+#define PROPERTY(x) @property (nonatomic,copy)NSString *(x)
+#define ArrayLazyLoad(x) if (!x) { x = [NSMutableArray new];}return x
+#endif /* WZSPrefixHeader_pch */
